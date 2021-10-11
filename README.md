@@ -1,14 +1,14 @@
 # Email Part (Learning Stage)
-# # Simple Firebase Authentication
+## Simple Firebase Authentication
 
 
 
-# # # Loging Part Authenticate
+### Loging Part Authenticate
 
 - This activities going on learning purposes;
 - It's my first simple firebase authentication activities;
 - In this time I'm a primery level learner. 
 - Thank you . 
 
-# # # # # Auther : Md. Shakawat Hossain.
-# # # # #  Chattogram , Bangladesh. 
+##### Auther : Md. Shakawat Hossain.
+##### Chattogram , Bangladesh. 
